@@ -1,7 +1,7 @@
 /**
  * @brief   智慧农业采集控制系统用户端
- * @author  Mculover666
- * @date    2020/05/10
+ * @author  Maphsge7
+ * @date    2022/03/10
 */
  
 #include <stdio.h>

@@ -1,7 +1,7 @@
 /**
  * @brief   智慧农业采集控制系统
- * @author  Mculover666
- * @date    2020/05/10
+ * @author  Maphsge7
+ * @date    2022/03/10
  * @note    本系统使用开源库cjson解析数据
 */
  
@@ -55,11 +55,11 @@ int main()
     /* 打印菜单 */
     printf("************************************************\n");
     printf("*                                              *\n");
-    printf("*             智慧农业信息采集控制系统          *\n");
+    printf("*             智慧农业信息采集控制系统           *\n");
     printf("*                                              *\n");
     printf("*                                              *\n");
-    printf("*       作者：wangshiwei  UDP监听端口:%-4d     *\n", PORT);
-    printf("*       数据库：MySQL      版本：v%3s          *\n", VER);
+    printf("*       作者：麻晨翔       UDP监听端口:%-4d      *\n", PORT);
+    printf("*       数据库：MySQL      版本：v%3s           *\n", VER);
     printf("*                                              *\n");
     printf("************************************************\n");
 

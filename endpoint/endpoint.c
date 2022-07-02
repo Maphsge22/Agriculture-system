@@ -1,7 +1,7 @@
 /**
  * @brief   智慧农业采集控制系统数据采集终端
- * @author  Mculover666
- * @date    2020/05/10
+ * @author  Maphsge7
+ * @date    2022/03/10
  * @note    本系统使用开源库cjson解析数据
 */
 #include <stdio.h>
@@ -14,7 +14,7 @@
 #include <string.h>
 #include <time.h>
 
-#define ENDPOINT_ID "2016211961"
+#define ENDPOINT_ID "2019212617"
 
 int main(int argc, char* argv[])
 {
